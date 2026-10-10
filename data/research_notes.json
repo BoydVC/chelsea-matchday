@@ -1,0 +1,45 @@
+{
+  "label": "Team-news notes from on-disk ij_* research (not ESPN). Not a confirmed lineup.",
+  "generatedNote": "Extracted Sat Oct 10, 2026 remaster. ESPN public injuries endpoint returned 0 items for CHE and BOU.",
+  "sections": [
+    {
+      "file": "ij_2026-10-07_research.md",
+      "heading": "Chelsea (vs Bournemouth, Sat Oct 10)",
+      "bullets": [
+        "**GK Mike Penders (quad) is back in full training** and could start, since Emi Martínez may not be back from Argentina duty in time. Neto, Estevão and Emegha are training.",
+        "**Palmer, João Pedro and Caicedo were not seen training.** João Pedro has a knee issue and has seen a specialist; Gittens has an ankle injury and is on crutches. Earlier reports still expect Palmer, James and Caicedo to be available, so there's some tension between these reports."
+      ],
+      "urls": [
+        "https://sports.yahoo.com/articles/pictured-chelsea-injury-worries-cooled-182133954.html"
+      ]
+    },
+    {
+      "file": "ij_2026-10-06_research.md",
+      "heading": "Chelsea: Bournemouth at the Bridge, Sat Oct 10",
+      "bullets": [
+        "**Mostly repeats of Monday.** Palmer is expected back (he rehabbed in the Caribbean); João Pedro (knee) is likely out until later or the end of October; Caicedo, James, Palestra and Emegha could return; Gittens (ankle) is out pending assessment. Small new details: the Chelsea Chronicle says Palmer, James and Palestra trained during the break. The Standard says unnamed injured players played a behind-closed-doors friendly vs Portsmouth at Cobham on Saturday, which Chelsea lost 2-0. Alonso's press",
+        "**Bournemouth absences:** Alex Scott (quad) is out until early December per the Chronicle (Monday's report said about 6 weeks). Kluivert, Kroupi, Araujo, Adli and Milosavljevic are also out. [Chelsea Chronicle](https://www.thechelseachronicle.com/match-coverage/early-team-news-as-chelsea-host-bournemouth-13-potentially-missing-including-palmer-and-scott/)"
+      ],
+      "urls": [
+        "https://www.football.london/chelsea-fc/news/cole-palmer-three-more-injury-34718800",
+        "https://www.standard.co.uk/sport/football/chelsea-fc-injury-update-caicedo-joao-pedro-palmer-latest-news-return-dates-b1299720.html",
+        "https://www.thechelseachronicle.com/match-coverage/early-team-news-as-chelsea-host-bournemouth-13-potentially-missing-including-palmer-and-scott/",
+        "https://www.thechelseachronicle.com/match-coverage/early-team-news-as-chelsea-host-bournemouth-13-potentially-missing-including-palmer-and-scott/"
+      ]
+    },
+    {
+      "file": "ij_2026-10-05_research.md",
+      "heading": "Chelsea: Bournemouth at the Bridge, Sat Oct 10",
+      "bullets": [
+        "**Palmer is expected to be available; João Pedro is likely out.** Palmer rehabbed abroad with a specialist after leaving the England squad, and the Standard lists Bournemouth as his likely return. João Pedro (knee) has seen a specialist; Brazilian reports say up to about 4 weeks out, so a return is likely later in October. Reece James (hamstring), Caicedo (calf), Palestra and Emegha could also return Saturday. Gittens (ankle) is out pending assessment. Alonso's press conference later this week s",
+        "**Bournemouth's Alex Scott, a Chelsea transfer target, is out about 6 weeks.** Sources say he left England camp Monday with a quad injury, so he'll miss Saturday. [Football London](https://www.football.london/chelsea-fc/news/12-players-who-could-miss-34716912) · [Chelsea Chronicle](https://www.thechelseachronicle.com/news/xabi-alonso-receives-double-fitness-boost-ahead-of-chelsea-vs-bournemouth/)"
+      ],
+      "urls": [
+        "https://www.standard.co.uk/sport/football/chelsea-fc-injury-update-joao-pedro-palmer-caicedo-latest-news-return-dates-b1299491.html",
+        "https://www.football.london/chelsea-fc/news/12-players-who-could-miss-34716912",
+        "https://www.football.london/chelsea-fc/news/12-players-who-could-miss-34716912",
+        "https://www.thechelseachronicle.com/news/xabi-alonso-receives-double-fitness-boost-ahead-of-chelsea-vs-bournemouth/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+ "event": "401878775",
+ "files": {
+  "pregame.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401878775",
+   "fetchedAt": "2026-10-07T17:47:02-04:00"
+  },
+  "standings.json": {
+   "url": "https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
+   "fetchedAt": "2026-10-07T17:47:02-04:00"
+  },
+  "schedule_CHE.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/teams/363/schedule",
+   "fetchedAt": "2026-10-07T17:47:03-04:00"
+  },
+  "teamstats_CHE.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/soccer/leagues/eng.1/seasons/2026/types/1/teams/363/statistics",
+   "fetchedAt": "2026-10-07T17:47:03-04:00"
+  },
+  "injuries_CHE.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/soccer/leagues/eng.1/teams/363/injuries",
+   "fetchedAt": "2026-10-07T17:47:04-04:00"
+  },
+  "team_CHE.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/teams/363?enable=roster,injuries",
+   "fetchedAt": "2026-10-07T17:47:05-04:00"
+  },
+  "match_401879275.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879275",
+   "fetchedAt": "2026-10-07T17:47:05-04:00"
+  },
+  "match_401879283.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879283",
+   "fetchedAt": "2026-10-07T17:47:06-04:00"
+  },
+  "match_401879292.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879292",
+   "fetchedAt": "2026-10-07T17:47:06-04:00"
+  },
+  "match_401879317.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879317",
+   "fetchedAt": "2026-10-07T17:47:07-04:00"
+  },
+  "match_401879318.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879318",
+   "fetchedAt": "2026-10-07T17:47:08-04:00"
+  },
+  "schedule_BOU.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/teams/349/schedule",
+   "fetchedAt": "2026-10-07T17:47:08-04:00"
+  },
+  "teamstats_BOU.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/soccer/leagues/eng.1/seasons/2026/types/1/teams/349/statistics",
+   "fetchedAt": "2026-10-07T17:47:09-04:00"
+  },
+  "injuries_BOU.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/soccer/leagues/eng.1/teams/349/injuries",
+   "fetchedAt": "2026-10-07T17:47:09-04:00"
+  },
+  "team_BOU.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/teams/349?enable=roster,injuries",
+   "fetchedAt": "2026-10-07T17:47:10-04:00"
+  },
+  "match_401879276.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879276",
+   "fetchedAt": "2026-10-07T17:47:10-04:00"
+  },
+  "match_401879285.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879285",
+   "fetchedAt": "2026-10-07T17:47:11-04:00"
+  },
+  "match_401879286.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879286",
+   "fetchedAt": "2026-10-07T17:47:11-04:00"
+  },
+  "match_401879296.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879296",
+   "fetchedAt": "2026-10-07T17:47:12-04:00"
+  },
+  "match_401879320.json": {
+   "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879320",
+   "fetchedAt": "2026-10-07T17:47:13-04:00"
+  }
+ },
+ "teams": {
+  "CHE": "363",
+  "BOU": "349"
+ }
+}
